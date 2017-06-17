@@ -1,0 +1,11 @@
+{
+    "name": "sdk_drivers",
+    "version": "0.0.0",
+    "libArchive": false,
+    "build": {
+        "flags": [
+            "-I include",
+            "-I include/driver"
+        ]
+    }
+}
